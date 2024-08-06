@@ -5,4 +5,4 @@ TinyNeuralNetwork @ https://files.seeedstudio.com/sscma/library/TinyNeuralNetwor
 pnnx
 
 # vela
-ethos-u-vela
+ethos-u-vela>=3.4.0
